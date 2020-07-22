@@ -1,0 +1,22 @@
+h2{
+	color: rgb(0,0,0);
+/*	color:rgba(255,254,22,0.8);*/
+/*	rgba , a can take a value between 0-1 , it tells us transparency*/
+
+}
+
+p{
+	padding-left: 150;
+	color: purple;
+
+}
+
+h3{
+	color: #100000;
+/*	the first two digits define R , then G, then B*/
+}
+
+div{
+	background: rgb(1,1,1);
+}
+
